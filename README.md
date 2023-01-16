@@ -1,15 +1,37 @@
-This repository is using ReactJS, TypeScript and TailwindCSS. It also runs on node 18 (see .nvmrc) and has a formatter - prettier. If you're running this for the first time - please ensure you have nvm (node version manager).
+## Projeto previsão do tempo
+Este site é baseado em um aplicativo de previsão do tempo.
 
-## How To Run
+## Tecnologias usadas 
 
-If you don't have nvm installed, run the following command:
-`curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
-After you got nvm installed on your machine, run `nvm i` and then `nvm use` (to have the correct nodeJs version)
+Aqui estão as tecnologias usadas nesse projeto.
 
-Once you have the correct node version, run `npm i` to get all the required dependencies installed
+* ReactJs
+* TypeScript
+* Tailwind
 
-After everything is installed, run `npm run start` and navigate to http://localhost:3000
+## Como usar
 
-## API Calls
+### 1 - Quando você entrar você verá a página inicial.
 
-Please Note: The OpenWeather API is using an API Key. In the repository you fill find a `.env.example` file which you need to copy/save as `.env` and paste the value of your API key (which you can get when you register on the OpenWeather API website).
+![Homepage image](https://github.com/Muriloloures/weather-project/blob/adicionando-fotos-no-readme/readme-prints/home.png)
+
+### 2 - E aqui você pode ver que enquanto você pesquisa a cidade desejada opções similares à que você esta procurando irão aparecendo.
+
+![Posts](https://github.com/Muriloloures/weather-project/blob/adicionando-fotos-no-readme/readme-prints/searching.png)
+
+### 3 - Quando a pesquisa for concluída o resultado final trará várias informações sobre o clima da cidade pesquisada.
+
+![Posts](https://github.com/Muriloloures/weather-project/blob/adicionando-fotos-no-readme/readme-prints/finished_searching.png)
+
+## Links
+  - Deploy: https://weather-project-amber.vercel.app
+  - Repositorio: https://github.com/Muriloloures/weather-project
+    - Em caso de bugs ou qualquer outro problema por favor, contate-me
+      murilomlssloures@outlook.com. Eu valorizo o seu esforço para melhorar a qualidade e segurança deste projeto!
+
+  ## Feito por:
+
+  * **Murilo Loures** 
+
+  Me siga no github e junte-se a mim!
+  Obrigado por me visitar!
