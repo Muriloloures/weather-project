@@ -15,7 +15,7 @@ Aqui estão as tecnologias usadas nesse projeto.
 
 ![Homepage image](https://github.com/Muriloloures/weather-project/blob/adicionando-fotos-no-readme/readme-prints/home.png)
 
-### 2 - E aqui você pode ver que quando você pesquisa a cidade desejada opções similares à que você esta procurando irão aparecendo.
+### 2 - E aqui você pode ver que enquanto você pesquisa a cidade desejada opções similares à que você esta procurando irão aparecendo.
 
 ![Posts](https://github.com/Muriloloures/weather-project/blob/adicionando-fotos-no-readme/readme-prints/searching.png)
 
